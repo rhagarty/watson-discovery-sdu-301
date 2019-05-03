@@ -53,7 +53,7 @@ Notes:
 * Standard search dialog, showing enrichments and allowing search query
 * Create video and screenshots
 
-# 6. How to create chabot to access the SDU data using Assistant w/ Webhooks and Search Skill
+# 6. How to create chabot to access the SDU data using Assistant using Webhooks and Cloud Functions
 
 Notes:
 
